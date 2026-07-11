@@ -9,6 +9,7 @@
 
 #include "thread_pool.h"
 #include <stdexcept>
+#include <string>
 
 namespace wsk {
 
